@@ -1,4 +1,5 @@
 ![Go](https://github.com/sangianpatrick/go-playcourt-drive/workflows/Go/badge.svg?branch=master)
+[![codecov](https://codecov.io/gh/sangianpatrick/go-playcourt-drive/branch/master/graph/badge.svg?token=sr4Nok6fwp)](https://codecov.io/gh/sangianpatrick/go-playcourt-drive)
 
 # go-playcourt-drive
 An unofficial playcourt drive golang sdk.
