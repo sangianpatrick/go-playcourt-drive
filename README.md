@@ -1,3 +1,5 @@
+![Go](https://github.com/sangianpatrick/go-playcourt-drive/workflows/Go/badge.svg?branch=master)
+
 # go-playcourt-drive
 An unofficial playcourt drive golang sdk.
 
