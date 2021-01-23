@@ -4,6 +4,11 @@
 # go-playcourt-drive
 An unofficial playcourt drive golang sdk.
 
+# Install
+```
+$ go get github.com/sangianpatrick/go-playcourt-drive
+```
+
 # How to use
 ```
 func main() {
